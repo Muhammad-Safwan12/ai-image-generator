@@ -12,7 +12,7 @@ To use this project, you need an OpenAI API key to generate images via OpenAI's 
 ```env
 REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
